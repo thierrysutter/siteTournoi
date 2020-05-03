@@ -58,33 +58,53 @@
 		  <td class=""><h4>Score</h4></td>
 		</tr>
 		<tr class="active">
-		  <td class="">9h00</td>
-		  <td class="">AS ERMONT - RS AMANVILLERS</td>
+		  <td class="">8h30</td>
+		  <td class="">ASNL FEMININES - TEMPLIERS NANDRIN 1</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
+		  <td class="">8h45</td>
+		  <td class="">FC THIONVILLE 2 - FC HAGONDANGE</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
 		  <td class="">9h17</td>
-		  <td class="">COM BELLECROIX - FC THIONVILLE 1</td>
-		  <td class="">-</td>
-		</tr>
-		<tr class="active">
-		  <td class="">10h08</td>
-		  <td class="">FC THIONVILLE 1 - AS ERMONT</td>
+		  <td class="">FC HAGONDANGE - ASNL FEMININES</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">10h25</td>
-		  <td class="">COM BELLECROIX - RS AMANVILLERS</td>
+		  <td class="">9h32</td>
+		  <td class="">TEMPLIERS NANDRIN 1 - AS PAGNY / MOSELLE</td>
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
-		  <td class="">11h16</td>
-		  <td class="">AS ERMONT - COM BELLECROIX</td>
+		  <td class="">10h04</td>
+		  <td class="">TEMPLIERS NANDRIN 1 - FC THIONVILLE 2</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">11h33</td>
-		  <td class="">FC THIONVILLE 1 - RS AMANVILLERS</td>
+		  <td class="">10h19</td>
+		  <td class="">AS PAGNY / MOSELLE - ASNL FEMININES</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h08</td>
+		  <td class="">FC THIONVILLE 2 - AS PAGNY / MOSELLE</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">11h23</td>
+		  <td class="">FC HAGONDANGE - TEMPLIERS NANDRIN 1</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h55</td>
+		  <td class="">AS PAGNY / MOSELLE - FC HAGONDANGE</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">12h10</td>
+		  <td class="">ASNL FEMININES - FC THIONVILLE 2</td>
 		  <td class="">-</td>
 		</tr>
 	  </table>
@@ -103,33 +123,53 @@
 		  <td class=""><h4>Score</h4></td>
 		</tr>
 		<tr class="active">
-		  <td class="">9h00</td>
-		  <td class="">APM METZ - TEMPLIERS NANDRINS</td>
+		  <td class="">8h30</td>
+		  <td class="">AS ST JULIEN 2 - AS ERMONT 1</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
+		  <td class="">8h45</td>
+		  <td class="">CO METZ BELLECROIX - FC THIONVILLE 1</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
 		  <td class="">9h17</td>
-		  <td class="">ES LANEUVEVILLE - FC THIONVILLE 2</td>
-		  <td class="">-</td>
-		</tr>
-		<tr class="active">
-		  <td class="">10h08</td>
-		  <td class="">FC THIONVILLE 2 - APM METZ</td>
+		  <td class="">FC THIONVILLE 1 - AS ST JULIEN 2</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">10h25</td>
-		  <td class="">ES LANEUVEVILLE - TEMPLIERS NANDRINS</td>
+		  <td class="">9h32</td>
+		  <td class="">AS ERMONT 1 - AS FLORANGE</td>
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
-		  <td class="">11h16</td>
-		  <td class="">APM METZ - ES LANEUVEVILLE</td>
+		  <td class="">10h04</td>
+		  <td class="">AS ERMONT 1 - CO METZ BELLECROIX</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">11h33</td>
-		  <td class="">FC THIONVILLE 2 - TEMPLIERS NANDRINS</td>
+		  <td class="">10h19</td>
+		  <td class="">AS FLORANGE - AS ST JULIEN 2</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h08</td>
+		  <td class="">CO METZ BELLECROIX - AS FLORANGE</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">11h23</td>
+		  <td class="">FC THIONVILLE 1 - AS ERMONT 1</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h55</td>
+		  <td class="">AS FLORANGE - FC THIONVILLE 1</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">12h10</td>
+		  <td class="">AS ST JULIEN 2 - CO METZ BELLECROIX</td>
 		  <td class="">-</td>
 		</tr>
 	  </table>
@@ -149,33 +189,53 @@
 		  <td class=""><h4>Score</h4></td>
 		</tr>
 		<tr class="active">
-		  <td class="">9h00</td>
-		  <td class="">AS ST JULIEN - SC MARLY</td>
+		  <td class="">8h30</td>
+		  <td class="">USAG UCKANGE - APM METZ</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
+		  <td class="">8h45</td>
+		  <td class="">CHAPELLE ST LUC - TEMPLIERS NANDRIN 2</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
 		  <td class="">9h17</td>
-		  <td class="">CSO BLENOD - US CHATEL</td>
-		  <td class="">-</td>
-		</tr>
-		<tr class="active">
-		  <td class="">10h08</td>
-		  <td class="">US CHATEL - AS ST JULIEN</td>
+		  <td class="">APM METZ - CHAPELLE ST LUC</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">10h25</td>
-		  <td class="">CSO BLENOD - SC MARLY</td>
+		  <td class="">9h32</td>
+		  <td class="">AS MONTIGNY LES METZ 1 - USAG UCKANGE</td>
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
-		  <td class="">11h16</td>
-		  <td class="">AS ST JULIEN - CSO BLENOD</td>
+		  <td class="">10h04</td>
+		  <td class="">CHAPELLE ST LUC - AS MONTIGNY LES METZ 1</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">11h33</td>
-		  <td class="">US CHATEL - SC MARLY</td>
+		  <td class="">10h19</td>
+		  <td class="">TEMPLIERS NANDRIN 2 - APM METZ</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h08</td>
+		  <td class="">AS MONTIGNY LES METZ 1 - TEMPLIERS NANDRIN 2</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">11h23</td>
+		  <td class="">USAG UCKANGE - CHAPELLE ST LUC</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h55</td>
+		  <td class="">TEMPLIERS NANDRIN 2 - USAG UCKANGE</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">12h10</td>
+		  <td class="">APM METZ - AS MONTIGNY LES METZ 1</td>
 		  <td class="">-</td>
 		</tr>
 	  </table>
@@ -194,33 +254,53 @@
 		  <td class=""><h4>Score</h4></td>
 		</tr>
 		<tr class="active">
-		  <td class="">9h00</td>
-		  <td class="">AS MONTIGNY - SENART MOISSY</td>
+		  <td class="">8h30</td>
+		  <td class="">AS ERMONT 2 - CSO AMNEVILLE</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
+		  <td class="">8h45</td>
+		  <td class="">AS ST JULIEN 1 - EN ST AVOLD</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
 		  <td class="">9h17</td>
-		  <td class="">BFC BAR LE DUC - ES COURCELLES / NIED</td>
-		  <td class="">-</td>
-		</tr>
-		<tr class="active">
-		  <td class="">10h08</td>
-		  <td class="">ES COURCELLES / NIED - AS MONTIGNY</td>
+		  <td class="">CSO AMNEVILLE - AS ST JULIEN 1</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">10h25</td>
-		  <td class="">BFC BAR LE DUC - SENART MOISSY</td>
+		  <td class="">9h32</td>
+		  <td class="">AS MONTIGNY LES METZ 2 - AS ERMONT 2</td>
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
-		  <td class="">11h16</td>
-		  <td class="">AS MONTIGNY - BFC BAR LE DUC</td>
+		  <td class="">10h04</td>
+		  <td class="">AS ST JULIEN 1 - AS MONTIGNY LES METZ 2</td>
 		  <td class="">-</td>
 		</tr>
 		<tr>
-		  <td class="">11h33</td>
-		  <td class="">ES COURCELLES / NIED - SENART MOISSY</td>
+		  <td class="">10h19</td>
+		  <td class="">EN ST AVOLD - CSO AMNEVILLE</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h08</td>
+		  <td class="">AS MONTIGNY LES METZ 2 - EN ST AVOLD</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">11h23</td>
+		  <td class="">AS ERMONT 2 - AS ST JULIEN 1</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="active">
+		  <td class="">11h55</td>
+		  <td class="">EN ST AVOLD - AS ERMONT 2</td>
+		  <td class="">-</td>
+		</tr>
+		<tr>
+		  <td class="">12h10</td>
+		  <td class="">CSO AMNEVILLE - AS MONTIGNY LES METZ 2</td>
 		  <td class="">-</td>
 		</tr>
 	  </table>
@@ -263,7 +343,7 @@
 		  <td class="">-</td>
 		</tr>
 		<tr class="">
-		  <td class="" rowspan="2" style="vertical-align: middle;">13h32</td>
+		  <td class="" rowspan="2" style="vertical-align: middle;">13h30</td>
 		  <td colspan="2"><b>1/4 finale tournoi</b></td>
 	  	  <td colspan="2"><b>1/4 finale tournoi</b></td>
 		  <td colspan="2"><b>1/4 finale consolante</b></td>
@@ -280,13 +360,23 @@
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
-		  <td class="" rowspan="2" style="vertical-align: middle;">14h23</td>
+		  <td class="" rowspan="2" style="vertical-align: middle;">13h45</td>
+		  <td colspan="8"><b>17ème à 20ème place</b></td>
+		</tr>
+		<tr class="active">
+		  <td class="" colspan="3">5ème groupe C - 5ème groupe A</td>
+		  <td class="">-</td>
+		  <td class="" colspan="3">5ème groupe B - 5ème groupe D</td>
+		  <td class="">-</td>
+		</tr>
+		<tr class="">
+		  <td class="" rowspan="2" style="vertical-align: middle;">14h34</td>
 		  <td colspan="2"><b>5ème à 8ème place</b></td>
 	  	  <td colspan="2"><b>5ème à 8ème place</b></td>
 		  <td colspan="2"><b>13ème à 16ème place</b></td>
 		  <td colspan="2"><b>13ème à 16ème place</b></td>
 		</tr>
-		<tr class="active">
+		<tr class="">
 		  <td class="">-</td>
 		  <td class="">-</td>
 		  <td class="">-</td>
@@ -296,14 +386,14 @@
 		  <td class="">-</td>
 		  <td class="">-</td>
 		</tr>
-		<tr class="">
-		  <td class="" rowspan="2" style="vertical-align: middle;">14h40</td>
+		<tr class="active">
+		  <td class="" rowspan="2" style="vertical-align: middle;">14h49</td>
 		  <td colspan="2"><b>1/2 finale tournoi</b></td>
 	  	  <td colspan="2"><b>1/2 finale tournoi</b></td>
 		  <td colspan="2"><b>1/2 finale consolante</b></td>
 		  <td colspan="2"><b>1/2 finale consolante</b></td>
 		</tr>
-		<tr class="">
+		<tr class="active">
 		  <td class="">-</td>
 		  <td class="">-</td>
 		  <td class="">-</td>
@@ -313,8 +403,19 @@
 		  <td class="">-</td>
 		  <td class="">-</td>
 		</tr>
+		<tr class="">
+		  <td class="" rowspan="2" style="vertical-align: middle;">15h04</td>
+		  <td colspan="4"><b>19ème et 20ème place</b></td>
+	  	  <td colspan="4"><b>17ème et 18ème place</b></td>
+		</tr>
+		<tr class="">
+		  <td colspan="3" class="">-</td>
+		  <td class="">-</td>
+		  <td colspan="3" class="">-</td>
+		  <td class="">-</td>
+		</tr>
 		<tr class="active">
-		  <td class="" rowspan="2" style="vertical-align: middle;">15h31</td>
+		  <td class="" rowspan="2" style="vertical-align: middle;">15h53</td>
 		  <td colspan="4"><b>13ème et 14ème place</b></td>
 	  	  <td colspan="4"><b>15ème à 16ème place</b></td>
 		</tr>
@@ -325,7 +426,7 @@
 		  <td class="">-</td>
 		</tr>
 		<tr class="">
-		  <td class="" rowspan="2" style="vertical-align: middle;">15h48</td>
+		  <td class="" rowspan="2" style="vertical-align: middle;">16h10</td>
 		  <td colspan="4"><b>9ème et 10ème place</b></td>
 	  	  <td colspan="4"><b>11ème à 12ème place</b></td>
 		</tr>
@@ -336,7 +437,7 @@
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
-		  <td class="" rowspan="2" style="vertical-align: middle;">16h05</td>
+		  <td class="" rowspan="2" style="vertical-align: middle;">16h27</td>
 		  <td colspan="4"><b>5ème et 6ème place</b></td>
 	  	  <td colspan="4"><b>7ème à 8ème place</b></td>
 		</tr>
@@ -347,7 +448,7 @@
 		  <td class="">-</td>
 		</tr>
 		<tr class="">
-		  <td class="" rowspan="2" style="vertical-align: middle;">16h22</td>
+		  <td class="" rowspan="2" style="vertical-align: middle;">16h44</td>
 		  <td colspan="8"><b>3ème et 4ème place</b></td>
 		</tr>
 		<tr class="">
@@ -355,7 +456,7 @@
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
-		  <td class="" rowspan="2" style="vertical-align: middle;">16h39</td>
+		  <td class="" rowspan="2" style="vertical-align: middle;">17h01</td>
 		  <td colspan="8"><b>Finale</b></td>
 		</tr>
 		<tr class="active">
@@ -366,7 +467,7 @@
 	</div>
   </div>
 </div>
-
+ 
  <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Haut de page</a></p>

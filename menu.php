@@ -92,6 +92,13 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li>
+                            <a href="planning.php">
+
+                                Tirage au sort
+
+                            </a>
+                        </li>
+                        <li>
                             <a href="planningU11.php">
 
                                 U11
@@ -108,14 +115,14 @@
                     </ul>
                 </li>
 
-                <li class="dropdown">
-                    <a class="navbar-brand dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" href="classement.php">
+				
+                <li class="">
+                    <a class="navbar-brand " href="classement.php">
 
                         Résultats
 
-                        <span class="caret"></span>
                     </a>
-                    <ul class="dropdown-menu">
+                    <!--<ul class="dropdown-menu">
                         <li>
                             <a href="#">
 
@@ -130,16 +137,16 @@
 
                             </a>
                         </li>
-                    </ul>
+                    </ul>-->
                 </li>
-
-                <li>
+                
+                <!-- <li>
                     <a class="navbar-brand" href="sponsor.php">
 
                         Partenaire
 
                     </a>
-                </li>
+                </li>-->
                 <li>
                     <a class="navbar-brand" href="reglement.php">
 

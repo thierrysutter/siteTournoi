@@ -45,133 +45,157 @@
 
     <div class="container marketing">
       <div class="jumbotron">
-        <h1>Participants</h1>
+        <h1>Participants - 28 Avril 2019</h1>
       </div>
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/assj.png" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="2019/logos/ASSJLMVERT.png" style="width: 140px; height: 140px;">
           <h4>AS ST JULIEN LES METZ</h4>
           <p>France - Moselle</p>
           <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
+        </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2016/logos/rcsarreguemines.jpg" style="width: 140px; height: 140px;">
-          <h4>RC SARREGUEMINES</h4>
+         <img class="img-circle" src="2019/logos/asmontignylesmetz.jpg" style="width: 140px; height: 140px;">
+          <h4>AS MONTIGNY LES METZS</h4>
           <p>France - Moselle</p>
-          <p>Catégories U13</p>
-        </div><!-- /.col-lg-4 -->
+          <p>Catégories U11</p>
+        </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2016/logos/uschatel.jpg" style="width: 140px; height: 140px;">
+         <img class="img-circle" src="2019/logos/uschatel.jpg" style="width: 140px; height: 140px;">
           <h4>US CHATEL</h4>
           <p>France - Moselle</p>
-          <p>Catégorie U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
+          <p>Catégorie U13</p>
+        </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/apmmetz.png" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="2019/logos/apmmetz.png" style="width: 140px; height: 140px;">
           <h4>APM METZ</h4>
           <p>France - Moselle</p>
           <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
+        </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2016/logos/ermont.jpg" style="width: 140px; height: 140px;">
+         <img class="img-circle" src="2019/logos/ermont.jpg" style="width: 140px; height: 140px;">
           <h4>AS ERMONT</h4>
           <p>France - Val d'Oise</p>
           <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
+        </div>
       </div><!-- /.row -->
 
       <div class="row">
         <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/fcthionville.png" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="2019/logos/fcthionville.png" style="width: 140px; height: 140px;">
           <h4>FC THIONVILLE</h4>
           <p>France - Moselle</p>
           <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
+        </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/liverdun.png" style="width: 140px; height: 140px;">
-          <h4>FTM LIVERDUN</h4>
-          <p>France - Meurthe & Moselle</p>
-          <p>Catégories U13</p>
-        </div><!-- /.col-lg-4 -->
+          <img class="img-circle" src="2019/logos/csoaamneville.png" style="width: 140px; height: 140px;">
+          <h4>CSOA AMNEVILLE</h4>
+          <p>France - Moselle</p>
+          <p>Catégories U11</p>
+        </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2016/logos/templiersnandrins.jpg" style="width: 140px; height: 140px;">
+         <img class="img-circle" src="2019/logos/templiersnandrins.jpg" style="width: 140px; height: 140px;">
           <h4>TEMPLIERS NANDRINS</h4>
           <p>Belgique - Liège</p>
           <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
+        </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/escourcellessurnied.jpg" style="width: 140px; height: 140px;">
-          <h4>ES COURCELLES / NIED</h4>
-          <p>France - Moselle</p>
-          <p>Catégorie U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-2">
-         <img class="img-circle" src="2016/logos/amanvillers.jpg" style="width: 140px; height: 140px;">
-          <h4>RS AMANVILLERS</h4>
+          <img class="img-circle" src="2019/logos/uckange.png" style="width: 140px; height: 140px;">
+          <h4>USAG UCKANGE</h4>
           <p>France - Moselle</p>
           <p>Catégorie U11</p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
-
-      <div class="row">
+        </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/montignylesmetz.jpg" style="width: 140px; height: 140px;">
-          <h4>AS MONTIGNY LES METZ</h4>
-          <p>France - Moselle</p>
-          <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/senartmoissy.png" style="width: 140px; height: 140px;">
-          <h4>SENART MOISSY</h4>
-          <p>France - Seine et Marne</p>
-          <p>Catégories U11</p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-2">
-         <img class="img-circle" src="2016/logos/csoblenod.jpg" style="width: 140px; height: 140px;">
-          <h4>CSO BLENOD</h4>
+         <img class="img-circle" src="2019/logos/asnl.png" style="width: 140px; height: 140px;">
+          <h4>AS NANCY LORRAINE FEM.</h4>
           <p>France - Meurthe & Moselle</p>
-          <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/fcbarleduc.png" style="width: 140px; height: 140px;">
-          <h4>FC BAR LE DUC</h4>
-          <p>France - Meuse</p>
-          <p>Catégorie U13</p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-2">
-         <img class="img-circle" src="2016/logos/cometzbellecroix.jpg" style="width: 140px; height: 140px;">
-          <h4>CO METZ BELLECROIX</h4>
-          <p>France - Moselle</p>
           <p>Catégorie U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
+        </div>
+      </div><!-- /.row -->
+
+      <div class="row">
+        <div class="col-lg-2">
+          <img class="img-circle" src="2019/logos/asflorange.jpg" style="width: 140px; height: 140px;">
+          <h4>AS FLORANGE</h4>
+          <p>France - Moselle</p>
+          <p>Catégories U11 & U13</p>
+        </div>
+        <div class="col-lg-2">
+          <img class="img-circle" src="2019/logos/jcatoul.jpg" style="width: 140px; height: 140px;">
+          <h4>JCA TOUL</h4>
+          <p>France - Meurthe & Moselle</p>
+          <p>Catégories U13</p>
+        </div>
+        <div class="col-lg-2">
+         <img class="img-circle" src="2019/logos/aspagnysurmoselle.png" style="width: 140px; height: 140px;">
+          <h4>AS PAGNY SUR MOSELLE</h4>
+          <p>France - Meurthe & Moselle</p>
+          <p>Catégories U11</p>
+        </div>
+        <div class="col-lg-2">
+          <img class="img-circle" src="2019/logos/fchagondange.jpg" style="width: 140px; height: 140px;">
+          <h4>FC HAGONDANGE</h4>
+          <p>France - Moselle</p>
+          <p>Catégorie U11</p>
+        </div>
+        <div class="col-lg-2">
+         <img class="img-circle" src="2019/logos/enstavold.jpg" style="width: 140px; height: 140px;">
+          <h4>EN ST AVOLD</h4>
+          <p>France - Moselle</p>
+          <p>Catégorie U11</p>
+        </div>
 
       </div><!-- /.row -->
 
       <div class="row">
-      	<div class="col-lg-2"></div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/laneuvevilledevantnancy.png" style="width: 140px; height: 140px;">
-          <h4>LANEUVEVILLE DEVANT NANCY</h4>
-          <p>France - Meurthe & Moselle</p>
-          <p>Catégories U11 & U13</p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/scmarly.jpg" style="width: 140px; height: 140px;">
-          <h4>SC MARLY</h4>
-          <p>France - Moselle</p>
-          <p>Catégories U11</p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-2">
-          <img class="img-circle" src="2016/logos/devantlesponts.jpg" style="width: 140px; height: 140px;">
-          <h4>DEVANT LES PONTS</h4>
+          <img class="img-circle" src="2019/logos/ulplantieres.jpg" style="width: 140px; height: 140px;">
+          <h4>UL PLANTIERES</h4>
           <p>France - Moselle</p>
           <p>Catégories U13</p>
-        </div><!-- /.col-lg-4 -->
+        </div>
+        <div class="col-lg-2">
+          <img class="img-circle" src="2019/logos/laneuveville.png" style="width: 140px; height: 140px;">
+          <h4>ES LANEUVEVILLE DVT NANCY</h4>
+          <p>France - Meurthe & Moselle</p>
+          <p>Catégories U11</p>
+        </div>
+        <div class="col-lg-2">
+          <img class="img-circle" src="2019/logos/lachapellestluc.png" style="width: 140px; height: 140px;">
+          <h4>LA CHAPELLE ST LUC</h4>
+          <p>France - Aube</p>
+          <p>Catégories U11</p>
+        </div>
+        <div class="col-lg-2">
+          <img class="img-circle" src="2019/logos/muizon.jpg" style="width: 140px; height: 140px;">
+          <h4>ES MUIZON</h4>
+          <p>France - Marne</p>
+          <p>Catégorie U13</p>
+        </div>
+        <div class="col-lg-2">
+         <img class="img-circle" src="2019/logos/fcgrandcharmont.jpg" style="width: 140px; height: 140px;">
+          <h4>FC GRAND CHARMONT</h4>
+          <p>France - Doubs</p>
+          <p>Catégorie U13</p>
+        </div>
+      </div><!-- /.row -->
+      
+
+      <div class="row">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-2"></div>
+        <div class="col-lg-2">
+          <img class="img-circle" src="2019/logos/cometzbellecroix.jpg" style="width: 140px; height: 140px;">
+          <h4>CO METZ BELLECROIX</h4>
+          <p>France - Moselle</p>
+          <p>Catégories U11 & U13</p>
+        </div>
+        <div class="col-lg-2"></div>
         <div class="col-lg-2"></div>
       </div><!-- /.row -->
-
+      
       </div><!-- /.row -->
 
       <!-- FOOTER -->

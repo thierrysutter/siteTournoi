@@ -34,11 +34,19 @@
     <div class="container">
 
       <!-- Static navbar -->
-      <?php $annee="2016/"; include("menu.php"); ?>
+      <?php $annee="2019/"; include("menu.php"); ?>
 
+    <div class="row center-block" style="margin-bottom: 20px;">
+		<div class="col-sm-offset-3 col-sm-6 ">
+			<img src="images/afficheU11U13 2019 2.png" class="img-responsive">
+		</div>
+	</div>
+    
     </div> <!-- /container -->
 
-    <?php include("caroussel.php"); ?>
+
+	
+    <?php //include("caroussel.php"); ?>
 
     <!-- Marketing messaging and featurettes
     ================================================== -->

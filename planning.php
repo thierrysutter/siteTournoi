@@ -41,10 +41,10 @@
 
     <div class="container">
       <?php include("groupeU11.php"); ?>
-      <?php include("planningU11.php"); ?>
+      <?php //include("planningU11.php"); ?>
       <hr class="featurette-divider">
       <?php include("groupeU13.php"); ?>
-      <?php include("planningU13.php"); ?>
+      <?php //include("planningU13.php"); ?>
       <hr class="featurette-divider">
 
       <!-- FOOTER -->
