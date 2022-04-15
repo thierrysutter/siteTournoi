@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <meta charset="iso-8859-1">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -41,6 +41,7 @@
     
     <div class="container">
     	<div class="row text-center" style="margin-top: 25px; margin-bottom: 25px;">
+		<!--
     		<div class="col-sm-6">
     			<div class="row">
     				<div class="col-sm-12" style="margin-bottom: 15px;"><strong>U11</strong></div>
@@ -195,6 +196,7 @@
     				<div class="col-sm-10 text-left">ST JULIEN</div>
     			</div>
     		</div>
+			-->
     	</div>
     </div>
     
@@ -202,7 +204,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Haut de page</a></p>
-        <p>&copy; 2015 Association Sportive Saint-Julien-Lès-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
+        <p>&copy; 2015 Association Sportive Saint-Julien-LÃ¨s-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
       </footer>
 
     </div><!-- /.container -->

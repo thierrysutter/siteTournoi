@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <meta charset="ISO-8859-1">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -38,7 +38,7 @@
 
     <div class="row center-block" style="margin-bottom: 20px;">
 		<div class="col-sm-offset-3 col-sm-6 ">
-			<img src="images/afficheU11U13 2019 2.png" class="img-responsive">
+			<img src="images/afficheU11U13_2022_V2.jpg" class="img-responsive">
 		</div>
 	</div>
     
@@ -60,9 +60,9 @@
         <div class="col-lg-2">
           <!-- <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">-->
           <img class="img-circle" src="images/coupes3.jpg" style="width: 120px; height: 120px;">
-          <h2>Règlement</h2>
-          <p>Règlement du tournoi</p>
-          <p><a class="btn btn-default" href="reglement.php" role="button">Détails &raquo;</a></p>
+          <h2>RÃ¨glement</h2>
+          <p>RÃ¨glement du tournoi</p>
+          <p><a class="btn btn-default" href="reglement.php" role="button">DÃ©tails &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-2">
           <!-- <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">-->
@@ -71,7 +71,7 @@
           <p>
           Participants
           </p>
-          <p><a class="btn btn-default" href="participant.php" role="button">Détails &raquo;</a></p>
+          <p><a class="btn btn-default" href="participant.php" role="button">DÃ©tails &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-2">
           <!-- <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">-->
@@ -80,14 +80,14 @@
           <p>
           Groupes et horaires
           </p>
-          <p><a class="btn btn-default" href="planning.php" role="button">Détails &raquo;</a></p>
+          <p><a class="btn btn-default" href="planning.php" role="button">DÃ©tails &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-2">
           <!-- <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">-->
           <img class="img-circle" src="images/coupes3.jpg" style="width: 120px; height: 120px;">
           <h2>Classement</h2>
           <p>Classement final du tournoi</p>
-          <p><a class="btn btn-default" href="classement.php" role="button">Détails &raquo;</a></p>
+          <p><a class="btn btn-default" href="classement.php" role="button">DÃ©tails &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-2">
           <!-- <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">-->
@@ -96,7 +96,7 @@
           <p>
           Sponsors et partenaires
           </p>
-          <p><a class="btn btn-default" href="sponsor.php" role="button">Détails &raquo;</a></p>
+          <p><a class="btn btn-default" href="sponsor.php" role="button">DÃ©tails &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -168,7 +168,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">CSO Blénod U11 <span class="text-muted">(Meurthe & Moselle)</span></h2>
+          <h2 class="featurette-heading">CSO BlÃ©nod U11 <span class="text-muted">(Meurthe & Moselle)</span></h2>
           <p class="lead"></p>
         </div>
         <div class="col-md-5">
@@ -184,7 +184,7 @@
           <img class="featurette-image img-responsive" src="images/U13blenod.jpg" alt="Generic placeholder image">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">CSO Blénod U13 <span class="text-muted">(Meurthe & Moselle)</span></h2>
+          <h2 class="featurette-heading">CSO BlÃ©nod U13 <span class="text-muted">(Meurthe & Moselle)</span></h2>
           <p class="lead"></p>
         </div>
       </div>
@@ -219,7 +219,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Apm Metz U13 <span class="text-muted">(Moselle)</span></h2>
-          <p class="lead">Vainqueur du tournoi 2014 en catégorie U13.</p>
+          <p class="lead">Vainqueur du tournoi 2014 en catÃ©gorie U13.</p>
         </div>
         <div class="col-md-5">
           <!-- <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">-->
@@ -236,7 +236,7 @@
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">JSF Jarville U11 <span class="text-muted">(Meurthe et Moselle)</span></h2>
-          <p class="lead">Vainqueur du tournoi 2014 en catégorie U11.</p>
+          <p class="lead">Vainqueur du tournoi 2014 en catÃ©gorie U11.</p>
         </div>
       </div>
 
@@ -261,7 +261,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Haut de page</a></p>
-        <p>&copy; 2015 Association Sportive Saint-Julien-Lès-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
+        <p>&copy; 2015 Association Sportive Saint-Julien-LÃ¨s-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
       </footer>
 
     </div><!-- /.container -->

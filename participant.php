@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <meta charset="iso-8859-1">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -45,153 +45,158 @@
 
     <div class="container marketing">
       <div class="jumbotron">
-        <h1>Participants - 28 Avril 2019</h1>
+        <h1>Participants - 24 Avril 2022</h1>
       </div>
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/ASSJLMVERT.png" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="2022/logos/ASSJLMVERT.png" style="width: 140px; height: 140px;">
           <h4>AS ST JULIEN LES METZ</h4>
           <p>France - Moselle</p>
-          <p>Catégories U11 & U13</p>
+          <p>CatÃ©gories U11 & U13</p>
         </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/asmontignylesmetz.jpg" style="width: 140px; height: 140px;">
-          <h4>AS MONTIGNY LES METZS</h4>
+         <img class="img-circle" src="2022/logos/LaMaxe.jpg" style="width: 140px; height: 140px;">
+          <h4>RS LA MAXE</h4>
           <p>France - Moselle</p>
-          <p>Catégories U11</p>
+          <p>CatÃ©gories U11</p>
         </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/uschatel.jpg" style="width: 140px; height: 140px;">
-          <h4>US CHATEL</h4>
+         <img class="img-circle" src="2022/logos/rcchampigneulles.jpg" style="width: 140px; height: 140px;">
+          <h4>RC CHAMPIGNEULLES</h4>
           <p>France - Moselle</p>
-          <p>Catégorie U13</p>
+          <p>CatÃ©gorie U13</p>
         </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/apmmetz.png" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="2022/logos/apmmetz.png" style="width: 140px; height: 140px;">
           <h4>APM METZ</h4>
           <p>France - Moselle</p>
-          <p>Catégories U11 & U13</p>
+          <p>CatÃ©gories U11 & U13</p>
         </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/ermont.jpg" style="width: 140px; height: 140px;">
+         <img class="img-circle" src="2022/logos/ermont.jpg" style="width: 140px; height: 140px;">
           <h4>AS ERMONT</h4>
           <p>France - Val d'Oise</p>
-          <p>Catégories U11 & U13</p>
+          <p>CatÃ©gories U11 & U13</p>
         </div>
       </div><!-- /.row -->
 
       <div class="row">
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/fcthionville.png" style="width: 140px; height: 140px;">
-          <h4>FC THIONVILLE</h4>
+          <img class="img-circle" src="2022/logos/usaumetz.jpg" style="width: 140px; height: 140px;">
+          <h4>US AUMETZ</h4>
           <p>France - Moselle</p>
-          <p>Catégories U11 & U13</p>
+          <p>CatÃ©gories U11 & U13</p>
         </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/csoaamneville.png" style="width: 140px; height: 140px;">
-          <h4>CSOA AMNEVILLE</h4>
-          <p>France - Moselle</p>
-          <p>Catégories U11</p>
+          <img class="img-circle" src="2022/logos/assaulneslonglaville.jpg" style="width: 140px; height: 140px;">
+          <h4>AS SAULNES LONGLAVILLE</h4>
+          <p>France - Meurthe et Moselle</p>
+          <p>CatÃ©gories U11</p>
         </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/templiersnandrins.jpg" style="width: 140px; height: 140px;">
-          <h4>TEMPLIERS NANDRINS</h4>
-          <p>Belgique - Liège</p>
-          <p>Catégories U11 & U13</p>
+         <img class="img-circle" src="2022/logos/beaufays.jpg" style="width: 140px; height: 140px;">
+          <h4>BEAUFAYS</h4>
+          <p>Belgique</p>
+          <p>CatÃ©gories U13</p>
         </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/uckange.png" style="width: 140px; height: 140px;">
-          <h4>USAG UCKANGE</h4>
-          <p>France - Moselle</p>
-          <p>Catégorie U11</p>
+          <img class="img-circle" src="2022/logos/ovmh.jpg" style="width: 140px; height: 140px;">
+          <h4>OLYMPIQUE VALLEROY MOINEVILLE HATRIZE</h4>
+          <p>France - Meurthe et Moselle</p>
+          <p>CatÃ©gorie U11</p>
         </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/asnl.png" style="width: 140px; height: 140px;">
-          <h4>AS NANCY LORRAINE FEM.</h4>
-          <p>France - Meurthe & Moselle</p>
-          <p>Catégorie U11 & U13</p>
+         <img class="img-circle" src="2022/logos/fcmondercange.png" style="width: 140px; height: 140px;">
+          <h4>FC MONDERCANGE</h4>
+          <p>Luxembourg</p>
+          <p>CatÃ©gorie U11 & U13</p>
         </div>
       </div><!-- /.row -->
 
       <div class="row">
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/asflorange.jpg" style="width: 140px; height: 140px;">
-          <h4>AS FLORANGE</h4>
-          <p>France - Moselle</p>
-          <p>Catégories U11 & U13</p>
-        </div>
-        <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/jcatoul.jpg" style="width: 140px; height: 140px;">
-          <h4>JCA TOUL</h4>
-          <p>France - Meurthe & Moselle</p>
-          <p>Catégories U13</p>
-        </div>
-        <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/aspagnysurmoselle.png" style="width: 140px; height: 140px;">
-          <h4>AS PAGNY SUR MOSELLE</h4>
-          <p>France - Meurthe & Moselle</p>
-          <p>Catégories U11</p>
-        </div>
-        <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/fchagondange.jpg" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="2022/logos/fchagondange.jpg" style="width: 140px; height: 140px;">
           <h4>FC HAGONDANGE</h4>
           <p>France - Moselle</p>
-          <p>Catégorie U11</p>
+          <p>CatÃ©gories U11 & U13</p>
         </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/enstavold.jpg" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="2022/logos/scbettembourg.jpg" style="width: 140px; height: 140px;">
+          <h4>SC BETTEMBOURG</h4>
+          <p>Luxembourg</p>
+          <p>CatÃ©gories U13</p>
+        </div>
+        <div class="col-lg-2">
+         <img class="img-circle" src="2022/logos/aspagnysurmoselle.png" style="width: 140px; height: 140px;">
+          <h4>AS PAGNY SUR MOSELLE</h4>
+          <p>France - Meurthe & Moselle</p>
+          <p>CatÃ©gories U13</p>
+        </div>
+        <div class="col-lg-2">
+          <img class="img-circle" src="2022/logos/stomerlebach.jpg" style="width: 140px; height: 140px;">
+          <h4>STO MERLEBACH</h4>
+          <p>France - Moselle</p>
+          <p>CatÃ©gorie U13</p>
+        </div>
+        <div class="col-lg-2">
+         <img class="img-circle" src="2022/logos/enstavold.jpg" style="width: 140px; height: 140px;">
           <h4>EN ST AVOLD</h4>
           <p>France - Moselle</p>
-          <p>Catégorie U11</p>
+          <p>CatÃ©gorie U11 & U13</p>
         </div>
 
       </div><!-- /.row -->
 
       <div class="row">
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/ulplantieres.jpg" style="width: 140px; height: 140px;">
-          <h4>UL PLANTIERES</h4>
+          <img class="img-circle" src="2022/logos/devantlesponts.jpg" style="width: 140px; height: 140px;">
+          <h4>FC DEVANT LES PONTS</h4>
           <p>France - Moselle</p>
-          <p>Catégories U13</p>
+          <p>CatÃ©gories U13</p>
         </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/laneuveville.png" style="width: 140px; height: 140px;">
-          <h4>ES LANEUVEVILLE DVT NANCY</h4>
-          <p>France - Meurthe & Moselle</p>
-          <p>Catégories U11</p>
+          <img class="img-circle" src="2022/logos/ulrombas.jpg" style="width: 140px; height: 140px;">
+          <h4>UL ROMBAS</h4>
+          <p>France - Moselle</p>
+          <p>CatÃ©gories U13</p>
         </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/lachapellestluc.png" style="width: 140px; height: 140px;">
-          <h4>LA CHAPELLE ST LUC</h4>
-          <p>France - Aube</p>
-          <p>Catégories U11</p>
+          <img class="img-circle" src="2022/logos/cosvillerslesnancy.jpg" style="width: 140px; height: 140px;">
+          <h4>COS VILLERS LES NANCY</h4>
+          <p>France - Meurthe et Moselle</p>
+          <p>CatÃ©gories U13</p>
         </div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/muizon.jpg" style="width: 140px; height: 140px;">
-          <h4>ES MUIZON</h4>
-          <p>France - Marne</p>
-          <p>Catégorie U13</p>
+          <img class="img-circle" src="2022/logos/rsmagny.jpg" style="width: 140px; height: 140px;">
+          <h4>RS MAGNY</h4>
+          <p>France - Moselle</p>
+          <p>CatÃ©gories U13</p>
         </div>
         <div class="col-lg-2">
-         <img class="img-circle" src="2019/logos/fcgrandcharmont.jpg" style="width: 140px; height: 140px;">
-          <h4>FC GRAND CHARMONT</h4>
-          <p>France - Doubs</p>
-          <p>Catégorie U13</p>
+          <img class="img-circle" src="2022/logos/fclorryplapeville.jpg" style="width: 140px; height: 140px;">
+          <h4>FC LORRY PLAPEVILLE</h4>
+          <p>France - Moselle</p>
+          <p>CatÃ©gorie U13</p>
         </div>
       </div><!-- /.row -->
       
 
       <div class="row">
-        <div class="col-lg-2"></div>
-        <div class="col-lg-2"></div>
         <div class="col-lg-2">
-          <img class="img-circle" src="2019/logos/cometzbellecroix.jpg" style="width: 140px; height: 140px;">
-          <h4>CO METZ BELLECROIX</h4>
-          <p>France - Moselle</p>
-          <p>Catégories U11 & U13</p>
+        <img class="img-circle" src="2022/logos/akdmi.png" style="width: 140px; height: 140px;">
+          <h4>AKDMI</h4>
+          <p>France - Meurthe et Moselle</p>
+          <p>CatÃ©gories U13</p>
         </div>
+        <div class="col-lg-2">
+        <img class="img-circle" src="2022/logos/esmaizieres.png" style="width: 140px; height: 140px;">
+          <h4>ES MAIZIERES</h4>
+          <p>France - Moselle</p>
+          <p>CatÃ©gories U13</p>
+        </div>
+        <div class="col-lg-2"></div>
         <div class="col-lg-2"></div>
         <div class="col-lg-2"></div>
       </div><!-- /.row -->
@@ -201,7 +206,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Haut de page</a></p>
-        <p>&copy; 2015 Association Sportive Saint-Julien-Lès-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
+        <p>&copy; 2015 Association Sportive Saint-Julien-LÃ¨s-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
       </footer>
 
     </div><!-- /.container -->

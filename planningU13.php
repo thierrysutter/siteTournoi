@@ -44,7 +44,7 @@
      <div class="row">
   <div class="col-xs-12 col-sm-12 text-center"><h1>Planning U13</h1></div>
 </div>
-
+<!--
 <div class="row">
   <div class="col-xs-6 col-sm-6 text-center">
     <div class="table-responsive">
@@ -254,13 +254,13 @@
 		  <td colspan="2"><b>1/4 finale consolante</b></td>
 		</tr>
 		<tr class="active">
-		  <td class="">1er groupe A - 2ème groupe C</td>
+		  <td class="">1er groupe A - 2ï¿½me groupe C</td>
 		  <td class="">-</td>
-		  <td class="">1er groupe B - 2ème groupe D</td>
+		  <td class="">1er groupe B - 2ï¿½me groupe D</td>
 		  <td class="">-</td>
-		  <td class="">3ème groupe A - 4ème groupe C</td>
+		  <td class="">3ï¿½me groupe A - 4ï¿½me groupe C</td>
 		  <td class="">-</td>
-		  <td class="">3ème groupe B - 4ème groupe D</td>
+		  <td class="">3ï¿½me groupe B - 4ï¿½me groupe D</td>
 		  <td class="">-</td>
 		</tr>
 		<tr class="">
@@ -271,21 +271,21 @@
 		  <td colspan="2"><b>1/4 finale consolante</b></td>
 		</tr>
 		<tr class="">
-		  <td class="">1er groupe C - 2ème groupe A</td>
+		  <td class="">1er groupe C - 2ï¿½me groupe A</td>
 		  <td class="">-</td>
-		  <td class="">1er groupe D - 2ème groupe B</td>
+		  <td class="">1er groupe D - 2ï¿½me groupe B</td>
 		  <td class="">-</td>
-		  <td class="">3ème groupe C - 4ème groupe A</td>
+		  <td class="">3ï¿½me groupe C - 4ï¿½me groupe A</td>
 		  <td class="">-</td>
-		  <td class="">3ème groupe D - 4ème groupe B</td>
+		  <td class="">3ï¿½me groupe D - 4ï¿½me groupe B</td>
 		  <td class="">-</td>
 		</tr>
 		<tr class="active">
 		  <td class="" rowspan="2" style="vertical-align: middle;">15h19</td>
-		  <td colspan="2"><b>5ème à 8ème place</b></td>
-	  	  <td colspan="2"><b>5ème à 8ème place</b></td>
-		  <td colspan="2"><b>13ème à 16ème place</b></td>
-		  <td colspan="2"><b>13ème à 16ème place</b></td>
+		  <td colspan="2"><b>5ï¿½me ï¿½ 8ï¿½me place</b></td>
+	  	  <td colspan="2"><b>5ï¿½me ï¿½ 8ï¿½me place</b></td>
+		  <td colspan="2"><b>13ï¿½me ï¿½ 16ï¿½me place</b></td>
+		  <td colspan="2"><b>13ï¿½me ï¿½ 16ï¿½me place</b></td>
 		</tr>
 		<tr class="active">
 		  <td class="">-</td>
@@ -316,8 +316,8 @@
 		</tr>
 		<tr class="active">
 		  <td class="" rowspan="2" style="vertical-align: middle;">15h53</td>
-		  <td colspan="4"><b>13ème et 14ème place</b></td>
-	  	  <td colspan="4"><b>15ème à 16ème place</b></td>
+		  <td colspan="4"><b>13ï¿½me et 14ï¿½me place</b></td>
+	  	  <td colspan="4"><b>15ï¿½me ï¿½ 16ï¿½me place</b></td>
 		</tr>
 		<tr class="active">
 		  <td colspan="3" class="">-</td>
@@ -327,8 +327,8 @@
 		</tr>
 		<tr class="">
 		  <td class="" rowspan="2" style="vertical-align: middle;">16h10</td>
-		  <td colspan="4"><b>9ème et 10ème place</b></td>
-	  	  <td colspan="4"><b>11ème à 12ème place</b></td>
+		  <td colspan="4"><b>9ï¿½me et 10ï¿½me place</b></td>
+	  	  <td colspan="4"><b>11ï¿½me ï¿½ 12ï¿½me place</b></td>
 		</tr>
 		<tr class="">
 		  <td colspan="3" class="">-</td>
@@ -338,8 +338,8 @@
 		</tr>
 		<tr class="active">
 		  <td class="" rowspan="2" style="vertical-align: middle;">16h27</td>
-		  <td colspan="4"><b>5ème et 6ème place</b></td>
-	  	  <td colspan="4"><b>7ème à 8ème place</b></td>
+		  <td colspan="4"><b>5ï¿½me et 6ï¿½me place</b></td>
+	  	  <td colspan="4"><b>7ï¿½me ï¿½ 8ï¿½me place</b></td>
 		</tr>
 		<tr class="active">
 		  <td colspan="3" class="">-</td>
@@ -349,7 +349,7 @@
 		</tr>
 		<tr class="">
 		  <td class="" rowspan="2" style="vertical-align: middle;">16h44</td>
-		  <td colspan="8"><b>3ème et 4ème place</b></td>
+		  <td colspan="8"><b>3ï¿½me et 4ï¿½me place</b></td>
 		</tr>
 		<tr class="">
 		  <td colspan="7" class="">-</td>
@@ -367,11 +367,11 @@
 	</div>
   </div>
 </div>
- 
+ -->
 <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Haut de page</a></p>
-        <p>&copy; 2015 Association Sportive Saint-Julien-Lès-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
+        <p>&copy; 2015 Association Sportive Saint-Julien-Lï¿½s-Metz &middot; <a href="#">Conditions d'utilisation</a></p>
       </footer>
 
     </div><!-- /.container -->

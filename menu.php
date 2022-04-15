@@ -13,14 +13,14 @@
             <!-- <a class="navbar-brand" href="/tournoi/accueil2016.php">Edition 2016</a> -->
             <a class="navbar-brand" href="/tournoi/participant.php">Participants</a>
             <a class="navbar-brand" href="/tournoi/planning.php">Planning</a>
-            <a class="navbar-brand" href="/tournoi/classement.php">Résultats</a>
+            <a class="navbar-brand" href="/tournoi/classement.php">Rï¿½sultats</a>
             <a class="navbar-brand" href="/tournoi/sponsor.php">Partenaires</a>
-            <a class="navbar-brand" href="/tournoi/reglement.php">Règlement</a>
+            <a class="navbar-brand" href="/tournoi/reglement.php">Rï¿½glement</a>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               <!-- <li class="active"><a href="index.php">Accueil</a></li>-->
-              <!-- <li><a href="#">Règlement</a></li>
+              <!-- <li><a href="#">Rï¿½glement</a></li>
               <li><a href="#">Edition 2015</a></li> -->
 
 
@@ -119,7 +119,7 @@
                 <li class="">
                     <a class="navbar-brand " href="classement.php">
 
-                        Résultats
+                        RÃ©sultats
 
                     </a>
                     <!--<ul class="dropdown-menu">
@@ -150,7 +150,7 @@
                 <li>
                     <a class="navbar-brand" href="reglement.php">
 
-                        Règlement
+                        RÃ©glement
 
                     </a>
                 </li>
